@@ -1,6 +1,6 @@
 # udacity_python_datadashboard
 
-# World Bank Data Dashboard - PythonAnywhere Deployment
+# World Bank Data Dashboard
 
 ## Table of Contents
 
